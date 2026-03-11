@@ -1,0 +1,44 @@
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vw;
+}
+
+
+.menu p{
+    padding:  6vw 9vw;
+    margin: 0vw 1vw;
+    color: white;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.menu p a{
+    padding: 0.8vw 2.5vw;
+    background-color: rgb(57, 199, 57);
+    color: black;
+}
+
+.menu .cursos{
+    
+    background-image: url("../../assets/guitarra.jpeg");
+
+}
+
+
+.menu .metodo{
+    
+    background-image: url("../../assets/saxofonista.jpg");
+}
+
+.menu .professores{
+    
+    background-image: url("../../assets/bateria-musica.jpg");
+
+}

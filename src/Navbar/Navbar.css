@@ -1,0 +1,41 @@
+.nav{
+    margin: 3vw 0px;
+    font-size: 1.2rem;
+}
+
+
+.nav img{
+    block-size: 10vw;
+}
+
+.nav ul{
+    list-style: none;
+    padding: 5px 10vw;
+    align-items: center;
+    display: flex;
+    
+}
+
+
+
+
+.nav .active{
+    display: flex;
+    align-items: center;
+    block-size: 3vw;
+    padding: 5px 5vw;
+    color: white;
+    background-color: black;
+}
+.nav .inactive{
+
+    display: flex;
+    align-items: center;
+    block-size: 3vw;
+    padding: 5px 5vw;
+    color: black;
+    background-color: white;
+}
+
+
+
