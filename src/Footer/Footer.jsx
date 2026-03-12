@@ -45,7 +45,7 @@ const Footer = () => {
                 <div className="socials">
                     <a href="www.facebook.com"> <img src={imagens.facebookLogo} alt="" /></a>
                     <a href="www.twitter.com"> <img src={imagens.googlePlusIcon} alt="" /></a>
-                    <a href="https://www.instagram.com/ulissesbourdon_official/"> <img src={imagens.instaLogo} alt="" /></a>
+                    <a href="www.twitter.com"> <img src={imagens.instaLogo} alt="" /></a>
                     <a href="www.twitter.com"> <img src={imagens.twitterIcon} alt="" /></a>
                 </div>
             </div>
@@ -54,4 +54,3 @@ const Footer = () => {
 }
 
 export default Footer
-
