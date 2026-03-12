@@ -4,7 +4,7 @@ import saxofonista from "./saxofonista.jpg"
 import twitterIcon from "./twitter-x.png"
 import googlePlusIcon from "./googlePlus.png"
 import facebookLogo from "./facebook-logo.png"
-import instaLogo from "./instagram.png"
+import instaLogo from "./Instagram.png"
 import homeImg from "./home-img.jpg"
 import sobre from "./show.jpg"
 import sobre2 from "./saraudaniuli.jpg"
@@ -49,4 +49,5 @@ export const cursosAssets = {
     iniciante,
     mid,
     partitura
+
 }
