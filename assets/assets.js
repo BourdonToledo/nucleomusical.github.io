@@ -10,6 +10,8 @@ import sobre from "./show.jpg"
 import sobre2 from "./saraudaniuli.jpg"
 import logo from "./ulisses-logo.PNG"
 import fundador from "./fundador-foto.PNG"
+import tiktok from "./tiktok.png"
+import yt from "./youtube.png"
 
 
 
@@ -26,7 +28,10 @@ export const imagens = {
     sobre,
     sobre2,
     logo,
-    fundador
+    fundador,
+    tiktok,
+    yt
+    
 }
 
 import avancado from "./avancado.jpg"

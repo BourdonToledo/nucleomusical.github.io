@@ -43,10 +43,9 @@ const Footer = () => {
                     
                 <p>    Tel: 011-4508-7664 </p>
                 <div className="socials">
-                    <a href="www.facebook.com"> <img src={imagens.facebookLogo} alt="" /></a>
-                    <a href="www.twitter.com"> <img src={imagens.googlePlusIcon} alt="" /></a>
-                    <a href="www.twitter.com"> <img src={imagens.instaLogo} alt="" /></a>
-                    <a href="www.twitter.com"> <img src={imagens.twitterIcon} alt="" /></a>
+                    <a href="https://www.youtube.com/@UlissesBourdon"> <img src={imagens.yt} alt="" /></a>
+                    <a href="https://www.instagram.com/ulissesbourdon________/"> <img src={imagens.instaLogo} alt="" /></a>
+                    <a href="https://www.tiktok.com/tag/ulissesbourdon"> <img src={imagens.tiktok} alt="" /></a>
                 </div>
             </div>
         </div>
