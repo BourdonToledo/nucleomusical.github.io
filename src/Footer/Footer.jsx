@@ -13,7 +13,7 @@ const Footer = () => {
 
                         <p>Segunda - Quinta</p>
                         <p>Sexta  </p>
-                        <p>Sabado - Domingo </p>
+                        <p>Sabado  </p>
                     </div>
                     <div>
                         <p>9h - 21h</p>
