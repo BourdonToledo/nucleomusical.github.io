@@ -42,3 +42,16 @@
 .footer .socials img{
     max-block-size: 2vw;
 }
+
+
+@media (max-width: 768px){
+    .footer{
+        color: white;
+        background-color: rgb(82, 79, 79);
+        display: block;
+        
+    }
+    .footer .socials img{
+        max-block-size: 5vw;
+    }
+}
