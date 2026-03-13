@@ -27,19 +27,19 @@
 
 .menu .cursos{
     
-    background-image: url("../../assets/guitarra.jpeg");
+    background-image: var(--gui-url);
 
 }
 
 
 .menu .metodo{
     
-    background-image: url("../../assets/saxofonista.jpg");
+    background-image: var(--sax-url);
 }
 
 .menu .professores{
     
-    background-image: url("../../assets/bateria-musica.jpg");
+    background-image: var(--drum-url);
 
 }
 
