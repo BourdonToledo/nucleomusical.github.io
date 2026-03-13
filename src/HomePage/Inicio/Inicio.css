@@ -1,12 +1,15 @@
 
 .encapsula{
+    max-width: 100%;
+    display: grid;
     border: 2px solid black;
     box-shadow:  2px;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
     
 }
 
 .inicio {
-    margin-left: 10vw;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
