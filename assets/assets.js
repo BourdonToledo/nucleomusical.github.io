@@ -16,6 +16,22 @@ import yt from "./youtube.png"
 
 
 
+document.documentElement.style.setProperty(
+  "--gui-url",
+  `url(${guitarra})`
+);
+
+document.documentElement.style.setProperty(
+  "--sax-url",
+  `url(${saxofonista})`
+);
+
+document.documentElement.style.setProperty(
+  "--drum-url",
+  `url(${bateria})`
+);
+
+
 export const imagens = {
     bateria,
     guitarra,
