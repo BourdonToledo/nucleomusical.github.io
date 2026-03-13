@@ -1,7 +1,6 @@
 .anuncio{
     display: grid;
     grid-template-columns: 1.8fr 1fr 0.5fr;
-    background-color: rgba(210, 210, 210, 0.781);
     width: 105vw;
     margin-top: 5vw;
     margin-left: -5vw;
