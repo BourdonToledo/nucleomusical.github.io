@@ -25,3 +25,20 @@
     font-weight: 500;
     color: purple;
 }
+
+@media ((max-width: 768px)) {
+    .anuncio{
+        margin-left: none;
+        display: block;
+    }
+    .anuncio .linha-anuncio{
+        font-size: 1em;
+    }
+    .anuncio .anuncio-marque{
+    font-size: 1.2rem;
+}
+
+    .anuncio .anuncio-numero{
+        font-size: 1.5em
+    }
+}
