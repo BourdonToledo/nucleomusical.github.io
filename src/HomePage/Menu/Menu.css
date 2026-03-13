@@ -42,3 +42,12 @@
     background-image: url("../../assets/bateria-musica.jpg");
 
 }
+
+
+@media (max-width: 768px) {
+    .menu{
+        display: block;
+
+    }
+}
+
