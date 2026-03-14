@@ -35,3 +35,27 @@
 .header-table p span{
     font-size: 1.6em;
 }
+
+
+@media (max-width: 768px) {
+    .big-screen-imgs{
+        display: none;
+    }
+    .img-division{
+        display: inline;
+    }
+    .img-division img{
+        block-size: 50vw;
+    }
+    .header-table {
+        display: flex;
+        flex-direction: column;
+        font-size: 1em;
+        max-width: 100vw;
+    
+    }
+    .header-table h4{
+        max-width: 100vw;
+        font-size: 1.5rem;
+    }
+}
