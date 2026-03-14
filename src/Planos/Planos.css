@@ -38,3 +38,28 @@
     
 }
 
+.tabela-planos .descontos{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.tabela-planos .descontos hr{
+    width: 90%;
+    height: 1px;
+    background-color: rgb(229, 255, 0);
+}
+
+@media (max-width: 768px) {
+    .tabela-planos div{
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+    .tabela-planos{
+        border: none;
+        
+    }
+}
+
+
