@@ -7,8 +7,8 @@ const Header = () => {
     <div className='header'>
       <div className='img-division'>
         <img src={imagens.guitarra} alt="" />
-        <img src={imagens.saxofonista} alt="" />
-        <img src={cursosAssets.teclado} alt="" />
+        <img className='big-screen-imgs' src={imagens.saxofonista} alt="" />
+        <img className='big-screen-imgs' src={cursosAssets.teclado} alt="" />
       </div>
 
       <div className='header-table'>
