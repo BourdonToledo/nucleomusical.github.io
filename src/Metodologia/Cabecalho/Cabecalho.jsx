@@ -10,7 +10,7 @@ const Cabecalho = () => {
             <div className='titulo-metodo'>
                 <h1>Metodologia</h1>
             </div>
-            <p>No primeiro nível, Iniciante, o aluno aprende as posições básicas, o repertório fácil para começar fazendo um som e se habituar com o instrumento. Um pouco de teoria, de brincadeiras e jogos para criar e se divertir com a música. </p>
+            <p>Os cursos de Canto ou Instrumento são divididos em 4 Níveis de 1 ano de duração cada, com 2 módulos de 6 meses. Nível Iniciante, Básico, Intermediário e Avançado. As avaliações sobre o desenvolvimento musical de cada aluno acontecem aula a aula e, principalmente, nas apresentações e eventos, gerando um boletim semestral de aproveitamento para que alunos e pais acompanhem a evolução. </p>
         </div>
     </div>
   )
