@@ -2,7 +2,7 @@
 
 .sobre{
     display: block;
-    margin: 5vw 10vw;
+    margin: 5vw 0vw;
 }
 
 .sobre hr{
@@ -55,4 +55,25 @@
     gap: 5vw;
     margin-left: 10vw;
     
+}
+
+@media (max-width: 768px){
+    .sobre .sobre-img{
+        height: 40vw;
+    }
+    .sobre .meta-hist{
+        flex-direction: column;
+        width: 90vw;
+        max-width: none;
+    }
+    .fundador{
+        flex-direction: column;
+        margin-left: 0vw;
+        align-items: center;
+    }
+    .fundador img{
+       max-width:100%;
+       width: 50vw; 
+       height: 60vh;
+    }
 }
