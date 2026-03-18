@@ -26,10 +26,9 @@
 }
 
 .tabela-planos div{
-    background: #3F5EFB;
-    background: radial-gradient(circle,rgb(131, 255, 120) 0%, rgb(223, 226, 13) 100%);
-    justify-content: right;
-    border: 1px solid black;
+    /* background: radial-gradient(circle,rgb(131, 255, 120) 0%, rgb(223, 226, 13) 100%);
+    */justify-content: right;
+    border: 2px solid green;
     display: grid;
     grid-template-columns: 1fr 3fr 2fr;
     gap: 4vw;
